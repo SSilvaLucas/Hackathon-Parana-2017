@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lucasjfz.testehack"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icone"
+        android:label="reciclo"
+        android:roundIcon="@mipmap/icone"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.lucasjfz.testehack.MainActivity"
+            android:label="reciclo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.lucasjfz.testehack.MainActivity_col"
+            android:label="reciclo" />
+        <activity
+            android:name="com.lucasjfz.testehack.Activity_perfil"
+            android:label="reciclo" />
+        <activity
+            android:name="com.lucasjfz.testehack.LoginActivity"
+            android:label="reciclo" />
+        <activity
+            android:name="com.lucasjfz.testehack.Activity_prem"
+            android:label="reciclo" />
+        <activity android:name="com.lucasjfz.testehack.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

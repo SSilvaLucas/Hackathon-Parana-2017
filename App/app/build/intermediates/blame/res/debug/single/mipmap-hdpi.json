@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/lucas/AndroidStudioProjects/TesteHack/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/lucas/AndroidStudioProjects/TesteHack/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/res/merged/debug/mipmap-hdpi/icone.png",
+        "source": "/home/lucas/AndroidStudioProjects/TesteHack/app/src/main/res/mipmap-hdpi/icone.png"
+    }
+]

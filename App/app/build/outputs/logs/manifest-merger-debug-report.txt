@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:5:5-36:19
+MERGED from [com.android.support:design:25.1.1] /home/lucas/.android/build-cache/36fd0200e200b42550f3839d9452092952f28764/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/lucas/.android/build-cache/d9d9719fb5661e2634d57f0eb0862af115874632/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/lucas/.android/build-cache/53d6b307d191dc7ce0906a6ca5aa26db2fca05ad/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/lucas/.android/build-cache/3cee5001f598b1d8fe35d2596fbed07442b55c45/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] /home/lucas/.android/build-cache/a641b833883e8b6cd1161d6b4b2e8ed0a50abd33/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/lucas/.android/build-cache/d6aeb0d1af6da22482181aade189c4d507966e5d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/lucas/.android/build-cache/b9b45bbf476ffd2034c5112cbcf88b0c1e645669/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/lucas/.android/build-cache/2eadd3fe27e3dbe92a345dd16d03af7e17a2b4d4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/lucas/.android/build-cache/36af9bcab0d8f8480a11b9ab9fab4478c9dae3b3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/lucas/.android/build-cache/141ec05bc1932577b4a1d6471be7ebb55fee3075/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/lucas/.android/build-cache/6fad79c94301f78e0c91a576d396cde551cfdda4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lucas/.android/build-cache/a5dbb04b06a56eca1167d7df631b591819981230/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:8:9-32
+	android:supportsRtl
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:7:9-37
+	android:theme
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.lucasjfz.testehack.MainActivity
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:13:13-41
+activity#com.lucasjfz.testehack.MainActivity_col
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:16:9-18:39
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:17:13-45
+activity#com.lucasjfz.testehack.Activity_perfil
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:19:9-21:39
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:20:13-44
+activity#com.lucasjfz.testehack.LoginActivity
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:22:9-24:39
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:23:13-42
+activity#com.lucasjfz.testehack.Activity_prem
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:25:9-27:39
+	android:label
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:26:13-42
+activity#com.lucasjfz.testehack.SplashActivity
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:28:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] /home/lucas/.android/build-cache/36fd0200e200b42550f3839d9452092952f28764/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/lucas/.android/build-cache/d9d9719fb5661e2634d57f0eb0862af115874632/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/lucas/.android/build-cache/53d6b307d191dc7ce0906a6ca5aa26db2fca05ad/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/lucas/.android/build-cache/3cee5001f598b1d8fe35d2596fbed07442b55c45/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/lucas/.android/build-cache/42f489e475e59175353ec07856197e8aa05bae1c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /home/lucas/.android/build-cache/a641b833883e8b6cd1161d6b4b2e8ed0a50abd33/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] /home/lucas/.android/build-cache/d6aeb0d1af6da22482181aade189c4d507966e5d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/lucas/.android/build-cache/b9b45bbf476ffd2034c5112cbcf88b0c1e645669/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/lucas/.android/build-cache/2eadd3fe27e3dbe92a345dd16d03af7e17a2b4d4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/lucas/.android/build-cache/36af9bcab0d8f8480a11b9ab9fab4478c9dae3b3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/lucas/.android/build-cache/141ec05bc1932577b4a1d6471be7ebb55fee3075/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /home/lucas/.android/build-cache/6fad79c94301f78e0c91a576d396cde551cfdda4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lucas/.android/build-cache/a5dbb04b06a56eca1167d7df631b591819981230/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /home/lucas/.android/build-cache/36fd0200e200b42550f3839d9452092952f28764/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lucas/AndroidStudioProjects/TesteHack/app/src/main/AndroidManifest.xml

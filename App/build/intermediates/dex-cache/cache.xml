@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b676ba2ce9cf5fea02fc22c3b160115e39f3025">
+        <dex dex="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e1249095133e12bf61e023d9b1eb7a16937ecc25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19fc29b075f899b67c80772cf7b3967e8061aebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lucas/.android/build-cache/42f489e475e59175353ec07856197e8aa05bae1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f49fd2e8cd7ff598150b38df41ea5cb1fbbfbcdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lucas/.android/build-cache/36fd0200e200b42550f3839d9452092952f28764/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65b1281b8db4b4d6d9d73e38e1e86b30f40e1d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lucas/.android/build-cache/a641b833883e8b6cd1161d6b4b2e8ed0a50abd33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/lucas/AndroidStudioProjects/TesteHack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04142d7689599f105d0417d68c981cdd98462299/classes.dex" />
+    </item>
+
+</items>
